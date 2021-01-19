@@ -1,3 +1,4 @@
+#https://codeforces.com/problemset/problem/977/A
 num, times = [int(x) for x in input().split(' ')]
 
 for n in range(times):

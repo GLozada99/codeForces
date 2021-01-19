@@ -1,3 +1,4 @@
+#https://codeforces.com/problemset/problem/263/A
 lis = []
 changes = 0
 final_len = 5

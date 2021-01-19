@@ -1,3 +1,4 @@
+#https://codeforces.com/problemset/problem/266/A
 length = int(input())
 colors = input()
 removals = 0

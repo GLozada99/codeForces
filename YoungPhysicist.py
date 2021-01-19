@@ -1,3 +1,4 @@
+#https://codeforces.com/problemset/problem/69/A
 number = int(input())
 f_x = 0
 f_y = 0

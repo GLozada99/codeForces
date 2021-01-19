@@ -1,3 +1,4 @@
+#https://codeforces.com/problemset/problem/339/A
 operation = input()
 numbers = [int(num) for num in operation.split('+')]
 numbers.sort()

@@ -1,3 +1,4 @@
+#https://codeforces.com/problemset/problem/96/A
 players = input()
 zeroes = players.split('1')
 ones = players.split('0')

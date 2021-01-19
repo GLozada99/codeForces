@@ -1,3 +1,4 @@
+#https://codeforces.com/problemset/problem/791/A
 limark, bob = [int(x) for x in input().split(' ')]
 years = 0
 while bob >= limark:

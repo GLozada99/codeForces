@@ -1,3 +1,4 @@
+#https://codeforces.com/problemset/problem/546/A
 cost, money, bananas = [int(x) for x in input().split(' ')]
 total_cost = cost * sum(range(1,bananas + 1))
 money_borrow = total_cost - money
